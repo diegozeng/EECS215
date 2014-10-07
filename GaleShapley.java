@@ -101,7 +101,7 @@ public class GaleShapley
         return -1;
     }
     
-    /** main function **/
+    /** Test case: use example in the lecture note **/
     public static void main(String[] args)
     {
         System.out.println("Gale－Shapley Algorithm(GS):");
