@@ -1,5 +1,6 @@
 /* Input: Two sets of equal size + the preferences of each element.
  * Goal: Find a perfect stable matching
+ * Concretization: Marriage problem
  * Data structure: ArrayList (fixed length, LinkedList is stronger at inserting and removing)
  */
  
