@@ -1,4 +1,8 @@
-// Data structure: ArrayList (fixed length, LinkedList is stronger at inserting and removing)
+/* Input: Two sets of equal size + the preferences of each element.
+ * Goal: Find a perfect stable matching
+ * Data structure: ArrayList (fixed length, LinkedList is stronger at inserting and removing)
+ */
+ 
 /** Class GaleShapley **/
 public class GaleShapley
 {
