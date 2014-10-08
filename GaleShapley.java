@@ -2,6 +2,9 @@
  * Goal: Find a perfect stable matching
  * Concretization: Marriage problem
  * Data structure: ArrayList (fixed length, LinkedList is stronger at inserting and removing)
+ *
+ * Time: O(N^2)
+ * Space: O(N)
  */
  
 /** Class GaleShapley **/
