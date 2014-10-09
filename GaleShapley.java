@@ -3,8 +3,8 @@
  * Concretization: Marriage problem
  * Data structure: ArrayList (fixed length, LinkedList is stronger at inserting and removing)
  *
- * Time: O(N^2)
- * Space: O(N)
+ * Time Complexity: O(N^2)
+ * Space Complexity: O(N)
  */
  
 /** Class GaleShapley **/
